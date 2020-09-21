@@ -18,16 +18,16 @@ header {
 
 }
 
-ul {
+.lista-nav {
     list-style: none;
 }
 
-ul li {
+.lista-nav li {
     display: inline-block;
     padding: 10px 20px;
 }
 
-ul li a {
+.lista-nav li a {
     text-decoration: none;
     color: #555;
 }
@@ -40,10 +40,10 @@ ul li a {
     outline: none;
 }
 
-#lista2 li a {
+/* #lista2 li a {
     text-decoration: none;
     color: red;
-}
+} */
 
 .banner img {
     width: 100%;
@@ -72,4 +72,30 @@ footer {
 .banner2 img {
     width: 100%;
     margin-bottom: -4px;
+}
+
+.lista-musica {    
+    list-style-type: disc;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.lista-musica li {    
+    margin-left: 20px;
+}
+
+.music-margin {
+    margin-top: 152px;
+    text-align: left;
+    margin-left: 200px;
+}
+
+.music-margin h1 {
+    font-size: 200%;
+
+}
+
+iframe {
+    width: 600px;
+    height: 300px;
 }
