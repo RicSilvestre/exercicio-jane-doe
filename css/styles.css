@@ -98,4 +98,42 @@ footer {
 iframe {
     width: 600px;
     height: 300px;
+    margin-top: 30px;
+}
+
+.descricao-musica {    
+    list-style-type: none;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.descricao-musica li {    
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.contato-box {
+    margin-top: 152px;
+    text-align: left;
+    display: inline-block;
+}
+
+.contato-box .campos label {
+    display: block;
+    margin-top: 10px;
+}
+
+.contato-box .encontro {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.mapa {
+    display: inline-block;
+    width: 50%;
+    margin-left: 400px;
+    margin-top: auto;
+    margin-bottom: auto;
+
 }
