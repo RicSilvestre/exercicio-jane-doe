@@ -145,11 +145,6 @@ iframe {
     box-sizing: border-box;
 }
 
-iframe {
-    width: 100%;
-    height: 100%;
-}
-
 .contatos-gerais {
     width: 66%;
     margin: 0 auto;
