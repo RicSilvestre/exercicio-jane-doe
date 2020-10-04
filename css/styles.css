@@ -135,7 +135,7 @@ footer {
 .mapa {
     margin-top: 15%;
     width: 50%;
-    max-width: 100%
+    box-sizing: border-box;
 }
 
 .mapa iframe {
